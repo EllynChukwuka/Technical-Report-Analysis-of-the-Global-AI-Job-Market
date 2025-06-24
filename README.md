@@ -203,7 +203,8 @@ References:
 
 The primary reference for this report is the provided Power BI dashboard titled "GLOBAL CYBERSECURITY THREAT 2015-2024," downloaded from Kaggle, which serves as the data source and visualization tool.
 
-<img width="620" alt="cyber security dashboard" src="https://github.com/user-attachments/assets/77dcc024-756d-4918-a667-a49c2fb29d89" />
+<img width="659" alt="AI JOBS DASHBOARD" src="https://github.com/user-attachments/assets/69fb136c-571b-467b-8bd6-a4f902ea5aca" />
+
 
 
 
